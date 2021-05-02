@@ -1,0 +1,21 @@
+// .profileShrink {
+//     padding: 5%;
+//     min-height: 3000px;
+// }
+.div{
+    display: block;
+}
+.Main{
+    background-color: black;
+    color: #999;
+
+    .profileBox {
+        display: block;
+        margin-left:auto;
+        padding:5%;
+        height:3000px;
+        width: 300px;
+    }
+
+}
+
